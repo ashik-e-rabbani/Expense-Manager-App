@@ -6,13 +6,13 @@
 
 <!-- <p ><img height="600" alt="" src="/add.png" /></p> -->
 
-  ![](add.png)
+![](add.png)
 
 <!-- ### Quick Menu -->
-  ![](shortcuts.png)
+![](shortcuts.png)
 <!-- <p ><img height="600" alt="" src="/shortcuts.png" /></p> -->
   
 <!-- ### Balance on Home screen -->
-    ![](widgets.png)
+ ![](widgets.png)
 <!--   <p ><img height="600" alt="" src="/widgets.png" /></p> -->
   
