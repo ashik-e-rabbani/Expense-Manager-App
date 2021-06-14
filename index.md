@@ -1,5 +1,3 @@
-![](home.png)
-
 ## Features (Android):
 - Add Income and Expense
 - Transaction Update and Delete
@@ -10,6 +8,7 @@
 - App widgets
 - Quick menu
 
+![](home.png)
 
 ![](add.png)
 
