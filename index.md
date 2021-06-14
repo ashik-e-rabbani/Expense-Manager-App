@@ -1,7 +1,7 @@
 
 <p ><img height="600" alt="" src="/home.png" /></p>
 
-
+![](home.png)
 <!-- ### Make New Transactions -->
 
 <p ><img height="600" alt="" src="/add.png" /></p>
