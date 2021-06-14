@@ -1,6 +1,6 @@
 # Expense-Manager-App
 
-## Features:
+## Features (Android):
 - Add Income and Expense
 - Transaction Update and Delete
 - Monthy Report
@@ -9,6 +9,8 @@
 - Offline Access
 - App widgets
 - Quick menu
+
+**iOS is coming soon !!!
 
 
 <p ><img height="600" alt="" src="/home.png" /></p>
