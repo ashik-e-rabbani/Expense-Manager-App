@@ -1,5 +1,7 @@
 
-### [Download App](https://github.com/ashik-e-rabbani/Expense-Manager-App/raw/gh-pages/ExpManager.apk)
+
+![](home.png) 
+
 ## Features (Android):
 - Add Income and Expense
 - Transaction Update and Delete
@@ -10,7 +12,7 @@
 - App widgets
 - Quick menu
 
-![](home.png)
+### [Download App](https://github.com/ashik-e-rabbani/Expense-Manager-App/raw/gh-pages/ExpManager.apk)
 
 ![](add.jpg)
 
