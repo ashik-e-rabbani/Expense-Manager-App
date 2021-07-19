@@ -12,10 +12,10 @@
 
 ![](home.png)
 
-![](add.png)
+![](add.jpg)
 
-![](shortcuts.png)
+![](shortcuts.jpg)
 
-![](widgets.png)
+![](widgets.jpg)
 
   
